@@ -1,2 +1,2 @@
 # Web_Scraping
- A program used for web scraping website(amazon.in)
+ A program used for web scraping websites(amazon.in)
